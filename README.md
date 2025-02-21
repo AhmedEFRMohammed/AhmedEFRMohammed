@@ -23,7 +23,7 @@ I am open to collaborate 👬 on software projects, in particular those pertaini
 
 I am currently working on 🔭 my own personal projects 💾 on those themes as well.
 
-Feel free to reach out and ask 💬 about anything that has to do with those themes and skillsets.
+Feel free to reach out and ask 💬 about anything that has to do with those themes and skillsets, or any of the technologies listed below.
 
 📫 I am reachable on: ahmed.e.elwazery@gmail.com
 
