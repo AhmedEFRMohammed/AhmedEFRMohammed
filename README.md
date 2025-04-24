@@ -31,6 +31,6 @@ Feel free to reach out and ask 💬 about anything that has to do with those the
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,go,html,css,tailwind,bootstrap,react,threejs,nodejs,ts,postgres,mongodb,sqlite,flask,django,figma,linux,git,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,python,rust,html,css,tailwind,bootstrap,react,threejs,nodejs,ts,postgres,mongodb,sqlite,flask,django,figma,linux,git,vscode&perline=10" />
   </a>
 </p>
